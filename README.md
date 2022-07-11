@@ -7,6 +7,7 @@ Projeto de entendimento da linguagem Ruby
 Com o passo a passo de como a linguagem funciona de maneira offline, até o setup do ambiente e uma automação WEB.
 
 Instalando o ambiente:
+
 1-) Visite: https://code.visualstudio.com/download e baixe o Visual Studio Code em sua última versão;
 
 2-) Visite: https://www.ruby-lang.org/pt/downloads/ e baixe o ruby em sua última versão estável;
